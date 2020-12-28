@@ -57,7 +57,7 @@ Classical reinforcement learning application scenarios and state-of-the-art meth
 ##### 模型已知
 | 方法                                                         | 简介                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) | 智能体 |
+| [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) | 从零开始，靠纯自我博弈掌握棋类游戏 |
 | [ELF](https://github.com/pytorch/ELF) | Facebook 对 alphazero 的开源实现 |
 | [MuZero](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules) | Model-based 方法的里程碑之作，无需知晓规则即可掌握围棋、国际象棋、shogi 和 Atari，并达到匹敌 Alphazero 的水平。  |
 
