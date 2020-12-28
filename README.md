@@ -120,7 +120,7 @@ Classical reinforcement learning application scenarios and state-of-the-art meth
 * 是否有必要结合模仿学习进行伪奖励的设计
 * 训练方式的设计，考虑：
     * 是否需要对手
-        * elf play
+        * self play
     * 策略的鲁棒性
         * 联盟竞技场
     * 环境发生变化时，是否有必要将以前大规模训练的结果迁移过来，避免从头开始训练
